@@ -1,5 +1,0 @@
-numpy
-scipy
-nltk
-opencv-python
-tensorflow
