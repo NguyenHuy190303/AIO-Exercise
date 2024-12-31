@@ -3,7 +3,7 @@ import subprocess
 from datetime import datetime, timedelta
 
 # === CONFIG ===
-start_date = datetime(2024, 6, 1)
+start_date = datetime(2025, 1, 1)
 end_date = datetime(2025, 3, 31)
 auto_push_every = 10     # Tự động push sau mỗi n commit
 
